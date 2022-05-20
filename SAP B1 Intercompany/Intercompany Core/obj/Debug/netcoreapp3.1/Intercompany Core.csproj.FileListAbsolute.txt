@@ -1,0 +1,14 @@
+C:\Users\abrah\Documents\SAP B1 Intercompany\Intercompany Core\bin\Debug\netcoreapp3.1\Intercompany Core.exe
+C:\Users\abrah\Documents\SAP B1 Intercompany\Intercompany Core\bin\Debug\netcoreapp3.1\Intercompany Core.deps.json
+C:\Users\abrah\Documents\SAP B1 Intercompany\Intercompany Core\bin\Debug\netcoreapp3.1\Intercompany Core.runtimeconfig.json
+C:\Users\abrah\Documents\SAP B1 Intercompany\Intercompany Core\bin\Debug\netcoreapp3.1\Intercompany Core.runtimeconfig.dev.json
+C:\Users\abrah\Documents\SAP B1 Intercompany\Intercompany Core\bin\Debug\netcoreapp3.1\Intercompany Core.dll
+C:\Users\abrah\Documents\SAP B1 Intercompany\Intercompany Core\bin\Debug\netcoreapp3.1\Intercompany Core.pdb
+C:\Users\abrah\Documents\SAP B1 Intercompany\Intercompany Core\obj\Debug\netcoreapp3.1\Intercompany Core.csproj.AssemblyReference.cache
+C:\Users\abrah\Documents\SAP B1 Intercompany\Intercompany Core\obj\Debug\netcoreapp3.1\Intercompany Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abrah\Documents\SAP B1 Intercompany\Intercompany Core\obj\Debug\netcoreapp3.1\Intercompany Core.AssemblyInfoInputs.cache
+C:\Users\abrah\Documents\SAP B1 Intercompany\Intercompany Core\obj\Debug\netcoreapp3.1\Intercompany Core.AssemblyInfo.cs
+C:\Users\abrah\Documents\SAP B1 Intercompany\Intercompany Core\obj\Debug\netcoreapp3.1\Intercompany Core.csproj.CoreCompileInputs.cache
+C:\Users\abrah\Documents\SAP B1 Intercompany\Intercompany Core\obj\Debug\netcoreapp3.1\Intercompany Core.dll
+C:\Users\abrah\Documents\SAP B1 Intercompany\Intercompany Core\obj\Debug\netcoreapp3.1\Intercompany Core.pdb
+C:\Users\abrah\Documents\SAP B1 Intercompany\Intercompany Core\obj\Debug\netcoreapp3.1\Intercompany Core.genruntimeconfig.cache
